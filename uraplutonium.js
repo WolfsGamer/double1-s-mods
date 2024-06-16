@@ -1,4 +1,4 @@
-"CREDITS TO THE CREATORS OF PLUTONIUM! (Aka SquareScreamYT)
+"CREDITS TO THE CREATORS OF PLUTONIUM! (Aka SquareScreamYT)"
 addRecipe("uranium + plutonium","uraplutonium")
 
 addIngredient("uraplutonium", {
